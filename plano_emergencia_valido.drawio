@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15" version="26.1.0">
   <diagram name="Plano de Emergencia" id="0">
-    <mxGraphModel dx="862" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="600" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,6 +117,9 @@
         </mxCell>
         <mxCell id="dq3twiHDz4vnAk6Ew_6_-50" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.51;dx=19.86;notch=0;fillColor=light-dark(#66FF66,var(--ge-dark-color, #121212));strokeColor=light-dark(#000000,#000000);rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="310" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dq3twiHDz4vnAk6Ew_6_-51" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;u&gt;PLAN DE EVACUACIÓN&lt;/u&gt; /&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;u&gt;FIRE ESCAPE PLAN&lt;/u&gt;&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="10" width="420" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
